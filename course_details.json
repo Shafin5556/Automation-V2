@@ -1,0 +1,134 @@
+[
+    {
+        "code": "MAT-101",
+        "title": "Mathematics - I",
+        "credit":3
+    }
+    ,
+    {
+        "code": "PHY-101",
+        "title": "Physics-I",
+        "credit":3
+    }
+    ,
+    {
+        "code": "CSE-112",
+        "title": "Computer Fundamentals",
+        "credit":3
+    }
+    ,
+    {
+        "code": "CSE-113",
+        "title": "Programming and Problem Solving",
+        "credit":3
+    }
+    ,
+    {
+        "code": "CSE-114",
+        "title": "Programming and Problem Solving Lab",
+        "credit":2
+    }
+    ,
+    {
+        "code": "CSE-115",
+        "title": "Introduction to Biology and Chemistry for Computation",
+        "credit":2
+    }
+    ,
+    {
+        "code": "ENG-102",
+        "title": "Writing and Comprehension",
+        "credit":3
+    }
+    ,
+    {
+        "code": "MAT-102",
+        "title": "Mathematics-II: Calculus, Complex Variables and Linear Algebra",
+        "credit":3
+    }
+    ,
+    {
+        "code": "PHY- 102",
+        "title": "Physics - II",
+        "credit":2
+    }
+    ,
+    {
+        "code": "PHY- 103",
+        "title": "Physics - II Lab",
+        "credit":3
+    }
+    ,
+    {
+        "code": "CSE-121",
+        "title": "Electrical Circuits",
+        "credit":3
+    }
+    ,
+    {
+        "code": "CSE-122",
+        "title": "Electrical Circuits Lab",
+        "credit":2
+    }
+    ,
+    {
+        "code": "CSE-123",
+        "title": "Data Structure",
+        "credit":3
+    }
+    ,
+    {
+        "code": "CSE-124",
+        "title": "Data Structure Lab",
+        "credit":2
+    }
+    ,
+    {
+        "code": "Engineering Mathematics",
+        "title": "MAT-211",
+        "credit":3
+    }
+    ,
+    {
+        "code": "CSE-212",
+        "title": "Discrete Mathematics",
+        "credit":3
+    }
+    ,
+    {
+        "code": "CSE-213",
+        "title": "Algorithms",
+        "credit":2
+    }
+    ,
+    {
+        "code": "CSE-214",
+        "title": "Algorithms Lab",
+        "credit":2
+    }
+    ,
+    {
+        "code": "CSE-215",
+        "title": "Electronic Devices and Circuits",
+        "credit":3
+    }
+    ,
+    {
+        "code": "CSE-216",
+        "title": "Electronic Devices and Circuits Lab",
+        "credit":2
+    }
+    ,
+    {
+        "code": "BNS-101",
+        "title": "Bangladesh Studies",
+        "credit":3
+    }
+    ,
+    {
+        "code": "AOL-101",
+        "title": "Art of Living",
+        "credit":3
+    }
+
+]
